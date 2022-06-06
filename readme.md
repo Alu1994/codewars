@@ -5,5 +5,6 @@
 - [FindTheOddInt](/Codewars.Exercises/Codewars.Exercises/Exercises/FindTheOddInt.cs)
 - [TribonacciSequence](/Codewars.Exercises/Codewars.Exercises/Exercises/TribonacciSequence.cs)
 - [YourOrderPlease](/Codewars.Exercises/Codewars.Exercises/Exercises/YourOrderPlease.cs)
+- [SplitString](/Codewars.Exercises/Codewars.Exercises/Exercises/SplitString.cs)
 
 ### [My Profile](https://www.codewars.com/users/matsennin)
