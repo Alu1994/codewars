@@ -6,5 +6,6 @@
 - [TribonacciSequence](/Codewars.Exercises/Codewars.Exercises/Exercises/TribonacciSequence.cs)
 - [YourOrderPlease](/Codewars.Exercises/Codewars.Exercises/Exercises/YourOrderPlease.cs)
 - [SplitString](/Codewars.Exercises/Codewars.Exercises/Exercises/SplitString.cs)
+- [FirstNonRepeatingCharacter](/Codewars.Exercises/Codewars.Exercises/Exercises/FirstNonRepeatingCharacter.cs)
 
 ### [My Profile](https://www.codewars.com/users/matsennin)
